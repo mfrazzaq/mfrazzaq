@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Fazeel Razzaq
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning payment gateways in flutter
+- 👀 I’m interested in mobile app development, backend development, system design
+- 🌱 currently learning redis
 - 📫 How to reach me through my email: mfrazzaq@gmail.com
 
 <!---
